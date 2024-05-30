@@ -1,4 +1,4 @@
-package iphone.gui;
+package iphone.ui;
 
 import iphone.apps.AparelhoTelefonico;
 import iphone.apps.NavegadorInternet;
